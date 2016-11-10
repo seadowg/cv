@@ -53,7 +53,7 @@ My involvement in open source can mainly be seen on my
 Github at
 [github.com/seadowg](http://github.com/seadowg). My
 largest overall contributions other
-than to my personal projects have been to [github.com/robolectric/robolectric](http://github.com/robolectric), a
+than to my personal projects have been to [Robolectric](http://github.com/robolectric), a
 framework that allows developers
 to write unit tests in Android.
 
