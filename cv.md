@@ -7,7 +7,7 @@ consultant based in London.
 
 * Technologies: Kotlin, Android, Ruby, Rails, Java,
 Javascript, Robolectric, iOS, Postgres, Redis, MySQL,
-Cloud Foundry, Heroku, Spring
+Cloud Foundry, Heroku, Spring, Go
 
 * Principles: Test driven development, pair programming,
 distributed version control, continuous integration and
