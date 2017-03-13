@@ -5,8 +5,8 @@ consultant based in London.
 
 ## Skills
 
-* Technologies: Java, Android, Ruby, Rails, Kotlin,
-Javascript, Python, Robolectric, iOS, Postgres, Redis,
+* Technologies: Kotlin, Android, Ruby, Rails, Java,
+Javascript, Robolectric, iOS, Postgres, Redis, MySQL,
 Cloud Foundry, Heroku, Spring
 
 * Principles: Test driven development, pair programming,
