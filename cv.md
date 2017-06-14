@@ -1,6 +1,6 @@
 # Callum Stott
 
-I am a general purpose software engineer and agile
+I am a general purpose software engineer and XP/Lean
 consultant based in London.
 
 ## Skills
