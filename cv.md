@@ -57,8 +57,6 @@ than to my personal projects have been to [Robolectric](http://github.com/robole
 framework that allows developers
 to write unit tests in Android.
 
-******
-
 ## Education
 
 ### University of Edinburgh, Computer Science BEng Hons
