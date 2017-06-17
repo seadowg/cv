@@ -5,7 +5,7 @@ consultant based in London.
 
 ## Skills
 
-* Technologies: Kotlin, Android, Ruby, Rails, Java,
+* Technologies: Android, Kotlin, Ruby, Rails, Java,
 Javascript, Robolectric, iOS, Postgres, Redis, MySQL,
 Cloud Foundry, Heroku, Spring, Go
 
@@ -20,14 +20,14 @@ deployment, agile product management, balanced team
 *October 2012 - Present*
 
 * Building products and solutions for clients across
-mobile, web and cloud spaces as an engineer.
+native mobile and web as an engineer.
 * Mentoring and helping build other engineer's careers within
 the company.
 * Contributing to the overall direction and management of
 the consulting practice.
 * Leading technical teams while engaging with clients.
 * Teaching and consulting with technical, product and
-corporate members of client organisations on core
+executive members of client organisations on core
 development and agile practices such as pair programming,
 test driven development, agile product management, lean startup and
 many others.
