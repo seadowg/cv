@@ -21,7 +21,7 @@ deployment, agile product management, balanced team
 
 * Building products and solutions for clients across
 native mobile and web as an engineer.
-* Mentoring and helping build other engineer's careers within
+* Mentoring and helping build other engineers' careers within
 the company.
 * Contributing to the overall direction and management of
 the consulting practice.
