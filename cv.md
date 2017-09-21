@@ -76,5 +76,5 @@ Programming in Scala*
 
 ## Contact
 
-* Visit my website [www.seadowg.com](http://seadowg.com)
+* Visit my website [www.seadowg.com](https://www.seadowg.com)
 * Email me at <mailto:callum@seadowg.com>
