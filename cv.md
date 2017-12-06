@@ -1,13 +1,12 @@
 # Callum Stott
 
-I am a general purpose software engineer and XP/Lean
-consultant based in London.
+I am a software engineer and XP/Lean consultant with a focus on Android based in London.
 
 ## Skills
 
 * Technologies: Android, Kotlin, Ruby, Rails, Java,
 Javascript, Robolectric, iOS, Postgres, Redis, MySQL,
-Cloud Foundry, Heroku, Spring, Go
+Cloud Foundry, Concourse, Heroku, Spring, Go
 
 * Principles: Test driven development, pair programming,
 distributed version control, continuous integration and
@@ -19,20 +18,20 @@ deployment, agile product management, balanced team
 
 *October 2012 - Present*
 
-* Building products and solutions for clients across
-native mobile and web as an engineer.
+* Working as an engineer to build mobile apps (Android & iOS), Web apps and APIs.
+* Helping clients deploy and manage their applications in the Play Store, App Store and across 
+various cloud platforms (PCF, Heroku etc).
+* Chose to focus on Android projects and has pushed 5+ apps to the Play Store.
 * Mentoring and helping build other engineers' careers within
-the company.
+the company through as their immeditate manager.
 * Contributing to the overall direction and management of
 the consulting practice.
-* Leading technical teams while engaging with clients.
+* Serving as a lead engineer as part of a balanced team.
 * Teaching and consulting with technical, product and
 executive members of client organisations on core
 development and Lean/XP practices such as pair programming,
 test driven development, agile product management, lean startup and
 many others.
-* Helping clients move towards minimum viable products
-within their budgetary and time constraints.
 
 ### QA Software Engineer at Crocodile Clips Ltd
 
@@ -51,11 +50,7 @@ developers.
 
 My involvement in open source can mainly be seen on my
 Github at
-[github.com/seadowg](http://github.com/seadowg). My
-largest overall contributions other
-than to my personal projects have been to [Robolectric](http://github.com/robolectric), a
-framework that allows developers
-to write unit tests in Android.
+[github.com/seadowg](http://github.com/seadowg).
 
 ## Education
 
