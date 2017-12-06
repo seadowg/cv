@@ -28,7 +28,7 @@ the consulting practice.
 * Leading technical teams while engaging with clients.
 * Teaching and consulting with technical, product and
 executive members of client organisations on core
-development and agile practices such as pair programming,
+development and Lean/XP practices such as pair programming,
 test driven development, agile product management, lean startup and
 many others.
 * Helping clients move towards minimum viable products
