@@ -12,7 +12,7 @@ Cloud Foundry, Concourse, Heroku, Spring, Go
 
 ## Experience
 
-### Software Engineer, Manager at Pivotal
+### Software Engineer, Manager at Pivotal, San Francisco and London
 
 *October 2012 - Present*
 
@@ -29,7 +29,7 @@ development and Lean/XP practices such as pair programming,
 test driven development, agile product management, lean startup and
 many others.
 
-### QA Software Engineer at Crocodile Clips Ltd
+### QA Software Engineer at Crocodile Clips, Edinburgh
 
 *December 2010 - July 2012*
 
