@@ -12,7 +12,7 @@ Cloud Foundry, Concourse, Heroku, Spring, Go, React
 
 ## Experience
 
-### Software Engineer, Manager at Pivotal, San Francisco and London
+### Senior Software Engineer, Manager at Pivotal, San Francisco and London
 
 *October 2012 - Present*
 
