@@ -30,7 +30,7 @@ I am a software engineer and XP/Lean consultant with a focus on Android based in
 * Working on QA team for [sumdog.com](http://sumdog.com).
 * Implementing and carrying out manual testing of developed features.
 * Developing load testing, benchmarking and simulator tools using browser automation and internal APIs.
-* Operating as part of a scrum team with web and backenddevelopers.
+* Operating as part of a scrum team with developers.
 
 ### Open Source
 
