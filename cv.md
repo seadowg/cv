@@ -16,7 +16,7 @@ Cloud Foundry, Concourse, Heroku, Spring, Go, React
 
 *October 2012 - Present*
 
-* Working as an engineer and team lead to build mobile apps (Android & iOS), Web apps and APIs.
+* Working as an engineer and team lead to build mobile apps (Android & iOS), web apps and APIs across retail, logistics, news media and many other spaces.
 * Helping clients deploy and manage their applications in the Play Store, App Store and across
 various cloud platforms (PCF, Heroku etc).
 * Mentoring and helping build other engineers' careers within
