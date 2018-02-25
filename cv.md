@@ -4,13 +4,11 @@ I am a software engineer and XP/Lean consultant with a focus on Android based in
 
 ## Skills
 
-* Technologies: Android, Kotlin, Ruby, Rails, Java,
+* Technology: Android, Kotlin, Ruby, Rails, Java, Git,
 Javascript, Robolectric, iOS, Postgres, Redis, MySQL,
 Cloud Foundry, Concourse, Heroku, Spring, Go
 
-* Principles: Test driven development, pair programming,
-distributed version control, continuous integration and
-deployment, agile product management, balanced team
+* Process: Test driven development, pair programming, CI/CD, agile product management, balanced team
 
 ## Experience
 
@@ -18,15 +16,13 @@ deployment, agile product management, balanced team
 
 *October 2012 - Present*
 
-* Working as an engineer to build mobile apps (Android & iOS), Web apps and APIs.
-* Helping clients deploy and manage their applications in the Play Store, App Store and across 
+* Working as an engineer and team lead to build mobile apps (Android & iOS), Web apps and APIs.
+* Helping clients deploy and manage their applications in the Play Store, App Store and across
 various cloud platforms (PCF, Heroku etc).
-* Chose to focus on Android projects and has pushed 5+ apps to the Play Store.
 * Mentoring and helping build other engineers' careers within
-the company through as their immeditate manager.
+the company as their immeditate manager.
 * Contributing to the overall direction and management of
 the consulting practice.
-* Serving as a lead engineer as part of a balanced team.
 * Teaching and consulting with technical, product and
 executive members of client organisations on core
 development and Lean/XP practices such as pair programming,
