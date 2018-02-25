@@ -21,6 +21,8 @@ I am a software engineer and XP/Lean consultant with a focus on Android based in
 * Contributing to the overall direction and management of the consulting practice.
 * Teaching and consulting with technical, product and executive members of client organisations on core development and Lean/XP practices such as pair programming, test driven development, agile product management, lean startup and many others.
 
+<div style="page-break-after: always;"></div>
+
 ### QA Software Engineer at Crocodile Clips, Edinburgh
 
 *December 2010 - July 2012*
