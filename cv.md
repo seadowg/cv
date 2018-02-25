@@ -39,7 +39,7 @@ I am a senior software engineer and XP/Lean consultant with a focus on Android b
 * Mentored client technical and product team leaders throughout their transition from Pivotal to their own office
 * Collaborated with data scientists to build and integrate intelligent recommendations for customers
 
-##### Postfacto
+##### Remote retro tool
 
 * Public facing web tool allowing teams to have retrospectives remotely
 * Took on lead engineer position and helped coordinate transition from a hosted tool to an open source installable one (ongoing)
