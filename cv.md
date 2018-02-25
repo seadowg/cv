@@ -41,7 +41,7 @@ I am a senior software engineer and XP/Lean consultant with a focus on Android b
 
 ##### Postfacto
 
-* Public facing internal web tool allowing teams to have retrospectives remotely with 3000+ active weekly users
+* Public facing web tool allowing teams to have retrospectives remotely
 * Took on lead engineer position and helped coordinate transition from a hosted tool to an open source installable one (ongoing)
 * Worked with company VPs to facilitate smooth sunsetting of the hosted service
 
