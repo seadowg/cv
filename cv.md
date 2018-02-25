@@ -8,7 +8,7 @@ I am a senior software engineer and XP/Lean consultant with a focus on Android b
 
 *October 2012 - Present*
 
-Technologies: Android, Kotlin, Ruby, Rails, Java, Git, Javascript, Robolectric, iOS, Postgres, Redis, MySQL, Cloud Foundry, Concourse, Heroku, Spring, Go, React
+Technologies: Android, Kotlin, Ruby, Rails, Java, Git, Javascript, Robolectric, iOS, Postgres, Redis, MySQL, Spring, React, Cloud Foundry, Concourse, Heroku, Go
 
 #### Responsibilities
 
@@ -41,12 +41,6 @@ Technologies: Android, Kotlin, Ruby, Rails, Java, Git, Javascript, Robolectric, 
 * Taught both Pivotal and client engineers Android while building out Android app to complement existing iOS app
 * Mentored client technical and product team leaders throughout their transition from Pivotal to their own office
 * Collaborated with data scientists to build and integrate intelligent recommendations for customers
-
-##### Remote retro tool
-
-* Public facing web tool allowing teams to have retrospectives remotely
-* Took on lead engineer position and helped coordinate transition from a hosted tool to an open source installable one (ongoing)
-* Worked with company VPs to facilitate smooth sunsetting of the hosted service
 
 ## Education
 
