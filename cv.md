@@ -24,7 +24,7 @@ I am a senior software engineer and XP/Lean consultant with a focus on Android b
 * 150+ year old global newspaper moving from weekly to daily news
 * Lead a team of engineers to build Android and iOS app in parallel from scratch
 * Helped structure backlog of work to let newspaper make accurate decisions around when to print announcements
-* Collaborated with editorial team and C level project sponsors and also with third party design and API teams
+* Collaborated with editorial team, C level project sponsors and also with third party design and API teams
 
 ##### Courier parcel tracking app
 
