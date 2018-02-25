@@ -13,11 +13,11 @@ Technologies: Android, Kotlin, Ruby, Rails, Java, Git, Javascript, Robolectric, 
 #### Responsibilities
 
 * Working as a full stack engineer and team lead to build mobile apps (Android & iOS), web apps and APIs
-* Collaborating with other engineers, data scientists, UX/UI designers and product managers as part of a balanced team.
-* Helping clients deploy and maintain their products in the Play/App Store and across various cloud platforms (PCF, Heroku etc).
-* Mentoring and helping build other engineers' careers as their line manager.
-* Contributing to the overall direction and management of the office and consulting practice.
-* Teaching and consulting with technical, product and executive members of client organisations on core development and Lean/XP practices such as pair programming, test driven development, agile product management, lean startup and many others.
+* Collaborating with other engineers, data scientists, UX/UI designers and product managers as part of a balanced team
+* Helping clients deploy and maintain their products in the Play/App Store and across various cloud platforms (PCF, Heroku etc)
+* Mentoring and helping build other engineers' careers as their line manager
+* Contributing to the overall direction and management of the office and consulting practice
+* Teaching and consulting with technical, product and executive members of client organisations on core development and Lean/XP practices such as pair programming, test driven development, agile product management, lean startup and many others
 
 #### Major projects
 
@@ -53,4 +53,4 @@ Technologies: Android, Kotlin, Ruby, Rails, Java, Git, Javascript, Robolectric, 
 
 * Visit my website [www.seadowg.com](https://www.seadowg.com)
 * Email me at <mailto:callum@seadowg.com>
-* I work on my own projects and contribute to others on my [Github](https://github.com/seadowg).
+* I work on my own projects and contribute to others on my [Github](https://github.com/seadowg)
