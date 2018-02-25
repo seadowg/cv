@@ -32,7 +32,7 @@ Technologies: Android, Kotlin, Ruby, Rails, Java, Git, Javascript, Robolectric, 
 
 * 150+ year old global newspaper moving from weekly to daily news
 * Lead a team of engineers to build Android and iOS app in parallel from scratch
-* Collaborated with editorial team and C level project sponsors
+* Collaborated with editorial team and C level project sponsors on working with third party design agency
 
 ##### Courier parcel tracking app
 
