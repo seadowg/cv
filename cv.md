@@ -10,7 +10,7 @@ I am a senior software engineer and XP/Lean consultant with a focus on Android b
 
 #### Responsibilities
 
-* Working as an engineer and team lead to build mobile apps (Android & iOS), web apps and APIs
+* Working as a full stack engineer and team lead to build mobile apps (Android & iOS), web apps and APIs
 * Collaborating with other engineers, data scientists, UX/UI designers and product managers as part of a balanced team.
 * Helping clients deploy and manage their applications in the Play Store, App Store and across various cloud platforms (PCF, Heroku etc).
 * Mentoring and helping build other engineers' careers within the company as their line manager.
