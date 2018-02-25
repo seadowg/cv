@@ -8,7 +8,7 @@ I am a software engineer and XP/Lean consultant with a focus on Android based in
 Javascript, Robolectric, iOS, Postgres, Redis, MySQL,
 Cloud Foundry, Concourse, Heroku, Spring, Go, React
 
-* Process: Test driven development, pair programming, CI/CD, agile product management, balanced team
+* Process: Test driven development, pair programming, CI/CD, agile product management, balanced team, analytics
 
 ## Experience
 
