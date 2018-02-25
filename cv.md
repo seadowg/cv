@@ -1,6 +1,6 @@
 # Callum Stott
 
-I am a software engineer and XP/Lean consultant with a focus on Android based in London.
+I am a senior software engineer and XP/Lean consultant with a focus on Android based in London.
 
 ## Skills
 
@@ -29,7 +29,7 @@ I am a software engineer and XP/Lean consultant with a focus on Android based in
 
 * 150+ year old global newspaper moving from weekly to daily news
 * Worked mainly with Java and Objective-C
-* Lead a team of engineers to build Android and iOS app in parrellel from scratch
+* Lead a team of engineers to build Android and iOS app in parallel from scratch
 * Helped structure backlog of work to let newspaper make accurate decisions around when to print announcements
 * Collaborated with editorial team and C level project sponsors and also with third party design and API teams
 
@@ -37,13 +37,13 @@ I am a software engineer and XP/Lean consultant with a focus on Android based in
 
 * Global courier company operating in 50+ countries rewriting mobile apps to overcome quality and maintainability problems
 * Worked mainly with Java, Swift and C# (APIs)
-* Lead a team building first Android and then iOS apps to replace exisiting ones
+* Lead a team building first Android and then iOS apps to replace existing ones
 * Helped client team design and develop new APIs
-* Assisted client with assesing and then utilizing technology to implement real time driver tracking in-app
+* Assisted client with assessing and then utilizing technology to implement real time driver tracking in-app
 
 ##### 1 hour food delivery app
 
-* One of Britian's largest super markets building out a 1 hour delivery service
+* One of Britain's largest super markets building out a 1 hour delivery service
 * Worked mainly with Kotlin, Swift, Go, Postgres and Python
 * Taught both Pivotal and client engineers Android while building out Android app to complement existing iOS app
 * Mentored client technical and product team leaders throughout their transition from Pivotal to their own office
@@ -54,9 +54,7 @@ I am a software engineer and XP/Lean consultant with a focus on Android based in
 * Public facing internal tool allowing teams to have retrospectives remotely with 3000+ active weekly users
 * Worked mainly with React, Ruby on Rails and Postgres/MySQL
 * Took on lead engineer position and helped coordinate transition from a hosted tool to an open source installable one (ongoing)
-* Worked with company VPs to facilite smooth sunsetting of the hosted servie
-
-<div style="page-break-after: always;"></div>
+* Worked with company VPs to facilitate smooth sunsetting of the hosted service
 
 ### QA Software Engineer at Crocodile Clips, Edinburgh
 
