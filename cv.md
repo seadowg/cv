@@ -32,13 +32,14 @@ Technologies: Android, Kotlin, Ruby, Rails, Java, Git, Javascript, Robolectric, 
 
 * 150+ year old global newspaper moving from weekly to daily news
 * Lead a team of engineers to build Android and iOS app in parallel from scratch
-* Collaborated with editorial team and C level project sponsors on working with third party design agency
+* Collaborated with editorial team and C-Suite project sponsors on working with third party design agency
 
 ##### Courier parcel tracking app
 
 * Global courier company operating in 50+ countries rewriting mobile apps
 * Lead a team building first Android and then iOS apps to replace existing ones
 * Helped client team design and develop new APIs
+* Assisted the client in assessing and utilizing technologies to implement real time driver tracking for customers
 
 ## Education
 
