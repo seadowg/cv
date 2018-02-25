@@ -34,8 +34,6 @@ Technologies: Android, Kotlin, Ruby, Rails, Java, Git, Javascript, Robolectric, 
 * Lead a team of engineers to build Android and iOS app in parallel from scratch
 * Collaborated with editorial team and C level project sponsors
 
-<div style="page-break-after: always;"></div>
-
 ##### Courier parcel tracking app
 
 * Global courier company operating in 50+ countries rewriting mobile apps
