@@ -23,20 +23,24 @@ Technologies: Android, Kotlin, Ruby, Rails, Java, Git, Javascript, Robolectric, 
 
 ##### 1 hour food delivery app
 
-* One of Britain's largest super markets building out a 1 hour delivery service
+One of Britain's largest super markets building out a 1 hour delivery service.
+
 * Taught both Pivotal and client engineers Android while building out Android app to complement existing iOS app
 * Mentored client technical and product team leaders throughout their transition from Pivotal to their own office
 * Collaborated with data scientists to build and integrate intelligent recommendations for customers
 
 ##### Daily news app
 
-* 150+ year old global newspaper moving from weekly to daily news
+150+ year old global newspaper moving from weekly to daily news.
+
 * Lead a team of engineers to build Android and iOS app in parallel from scratch
+* Simultaneously released on Android and iOS to over 300k existing subscribers and new readers
 * Collaborated with editorial team and C-Suite project sponsors on working with third party design agency
 
 ##### Courier parcel tracking app
 
-* Global courier company operating in 50+ countries rewriting mobile apps
+Global courier company operating in 50+ countries rewriting mobile apps.
+
 * Lead a team building first Android and then iOS apps to replace existing ones
 * Helped client team design and develop new APIs
 * Assisted the client in assessing and utilizing technologies to implement real time driver tracking for customers
