@@ -37,13 +37,13 @@ One of Britain's largest super markets building out a 1 hour delivery service.
 * Simultaneously released on Android and iOS to over 300k existing subscribers and new readers
 * Collaborated with editorial team and C-Suite project sponsors on working with third party design agency
 
-##### Courier parcel tracking app
+##### Postfacto
 
-Global courier company operating in 50+ countries rewriting mobile apps.
+Internal tool for helping teams run agile retrospective with remote members.
 
-* Lead a team building first Android and then iOS apps to replace existing ones
-* Helped client team design and develop new APIs
-* Assisted the client in assessing and utilizing technologies to implement real time driver tracking for customers
+* Source and lead teams from within Pivotal to build new features for React/Rails web app
+* Coordinated moving from a hosted product to a self installed/on prem
+* Working towards open sourcing codebase
 
 ## Education
 
