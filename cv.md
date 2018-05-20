@@ -42,7 +42,7 @@ One of Britain's largest super markets building out a 1 hour delivery service.
 Internal tool for helping teams run agile retrospective with remote members.
 
 * Source and lead teams from within Pivotal to build new features for React/Rails web app
-* Coordinated moving from a hosted product to a self installed/on prem
+* Coordinated moving from a hosted product to a self installed/on premise one
 * Working towards open sourcing codebase
 
 ## Education
