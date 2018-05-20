@@ -39,7 +39,7 @@ One of Britain's largest super markets building out a 1 hour delivery service.
 
 ##### Postfacto
 
-Internal tool for helping teams run agile retrospective with remote members.
+Internal tool for helping teams run agile retrospectives with remote members.
 
 * Source and lead teams from within Pivotal to build new features for React/Rails web app
 * Coordinated moving from a hosted product to a self installed/on premise one
@@ -57,5 +57,5 @@ Internal tool for helping teams run agile retrospective with remote members.
 ## Contact
 
 * Visit my website [www.seadowg.com](https://www.seadowg.com)
-* Email me at <mailto:callum@seadowg.com>
+* Email me at callum@seadowg.com
 * I work on my own projects and contribute to others on my Github at [https://github.com/seadowg](https://github.com/seadowg)
