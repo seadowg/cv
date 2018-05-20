@@ -58,4 +58,4 @@ Global courier company operating in 50+ countries rewriting mobile apps.
 
 * Visit my website [www.seadowg.com](https://www.seadowg.com)
 * Email me at <mailto:callum@seadowg.com>
-* I work on my own projects and contribute to others on my [Github](https://github.com/seadowg)
+* I work on my own projects and contribute to others on my Github at [https://github.com/seadowg](https://github.com/seadowg)
