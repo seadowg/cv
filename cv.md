@@ -43,7 +43,7 @@ Internal tool for helping teams run agile retrospectives with remote members.
 
 * Source and lead teams from within Pivotal to build new features for React/Rails web app
 * Coordinated moving from a hosted product to a self installed/on premise one
-* Maintain open source project (https://postfacto.io)
+* Currently managing open source project (https://postfacto.io)
 
 ## Education
 
