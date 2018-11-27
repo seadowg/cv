@@ -4,7 +4,7 @@ I am a senior software engineer and XP/Lean consultant with a focus on Android b
 
 ## Experience
 
-### Senior Software Engineer, Manager at Pivotal
+### Senior Software Engineer, Manager at Pivotal Labs
 
 *October 2012 - Present*
 
