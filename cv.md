@@ -13,11 +13,11 @@ Technologies: Android, Kotlin, Ruby, Rails, Java, Git, Javascript, Robolectric, 
 #### Responsibilities
 
 * Working as a full stack engineer and team lead to build mobile apps (Android & iOS), web apps and APIs
-* Collaborating with other engineers, UX/UI designers and product managers as part of a balanced team
-* Helping clients deploy and maintain their products in the Play/App Store and across various cloud platforms (PCF, Heroku etc)
-* Mentoring and helping build other engineers' careers as their line manager
+* Teaching engineers XP practices such as test driven development, pair programming and CI/CD
+* Informing product directions with other engineers, UX/UI designers and product managers as part of a balanced team structure
+* Helping and advising clients to deploy and maintain their products in the Play/App Store and across various cloud platforms (PCF, Heroku etc)
+* Mentoring and helping build other Pivotal engineers' careers as their line manager
 * Contributing to the overall direction and management of the office and consulting practice
-* Teaching and consulting with technical, product and executive members of client organisations on core development and Lean/XP practices such as pair programming, test driven development, CI/CD, agile product management and lean startup
 
 #### Major projects
 
