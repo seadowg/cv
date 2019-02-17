@@ -1,6 +1,6 @@
 # Callum Stott
 
-I am a senior software engineer and XP/Lean consultant with a focus on Android based in London.
+I am a senior software engineer and XP/Lean consultant with a focus on Android and full stack web development based in London.
 
 ## Experience
 
