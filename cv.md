@@ -12,7 +12,7 @@ Technologies: Android, Kotlin, Ruby, Rails, Java, Git, Javascript, Robolectric, 
 
 #### Responsibilities
 
-* Working as a full stack engineer and team lead to build mobile apps (Android & iOS), web apps and APIs
+* Working as a full stack engineer and team lead to build web apps, mobile apps (Android & iOS) and APIs
 * Teaching engineers XP practices such as test driven development, pair programming and CI/CD
 * Informing product directions with other engineers, UX/UI designers and product managers as part of a balanced team structure
 * Helping and advising clients to deploy and maintain their products in the Play/App Store and across various cloud platforms (PCF, Heroku etc)
@@ -41,8 +41,8 @@ One of Britain's largest super markets building out a 1 hour delivery service.
 
 Internal tool for helping teams run agile retrospectives with remote members.
 
-* Source and lead teams from within Pivotal to build new features for React/Rails web app
-* Coordinated moving from a hosted product to a self installed/on premise one
+* Coordinate and carry out feature development and refactors of inherited existing React/Rails web app
+* Reworked SAAS product to a self installed/on premise one
 * Currently managing open source project (https://github.com/pivotal/postfacto/)
 
 ## Education
