@@ -25,9 +25,9 @@ Technologies: Android, Kotlin, Ruby, Rails, Java, Git, Javascript, Robolectric, 
 
 One of Britain's largest super markets building out a 1 hour delivery service.
 
-* Taught both Pivotal and client engineers Android while building out Android app to complement existing iOS app
+* Worked across mobile apps, web, APIs and backend services within several different technologies
+* Ramped up both Pivotal and client engineers to be able to build and maintain Android application
 * Mentored client technical and product team leaders throughout their transition from Pivotal to their own office
-* Collaborated with data scientists to build and integrate intelligent recommendations for customers
 
 ##### Daily news app
 
