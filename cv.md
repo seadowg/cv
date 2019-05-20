@@ -6,7 +6,7 @@ I am a senior software engineer and XP/Lean consultant with a focus on Android a
 
 ### Senior Software Engineer, Manager at Pivotal Labs
 
-*October 2012 - Present*
+*October 2012 - March 2019*
 
 Technologies: Android, Kotlin, Ruby, Rails, Java, Git, Javascript, Robolectric, iOS, Postgres, Redis, MySQL, Spring, React, Cloud Foundry, Concourse, Heroku, Go
 
