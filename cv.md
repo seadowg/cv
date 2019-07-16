@@ -4,6 +4,10 @@ I am a senior software engineer and XP/Lean consultant with a focus on Android a
 
 ## Experience
 
+### Director at OPC Industries
+
+*May 2019 - Present*
+
 ### Senior Software Engineer, Manager at Pivotal Labs
 
 *October 2012 - March 2019*
