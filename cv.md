@@ -13,7 +13,7 @@ Technologies: Android, Java, Python, XLSForms
 #### Work
 
 * Defining and working on projects for Open Data Kit focused around improving the UX of their primary Android app
-* Leading sessions with leadership at startups to help them solve organisational and product development problems
+* Running sessions with leadership at startups to help them solve organisational and product development problems
 
 ### Senior Software Engineer, Manager at Pivotal Labs
 
