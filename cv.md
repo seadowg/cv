@@ -8,6 +8,8 @@ I am a senior software engineer and XP/Lean consultant with a focus on Android a
 
 *May 2019 - Present*
 
+Mobile/web development and XP/Lean consulting for good causes https://www.opcindustries.com
+
 Technologies: Android, Java, Python, XLSForms
 
 #### Work
@@ -18,6 +20,8 @@ Technologies: Android, Java, Python, XLSForms
 ### Senior Software Engineer, Manager at Pivotal Labs
 
 *October 2012 - March 2019*
+
+Agile software developlent consultancy https://pivotal.io/labs
 
 Technologies: Android, Kotlin, Ruby, Rails, Java, Git, Javascript, Robolectric, iOS, Postgres, Redis, MySQL, Spring, React, Cloud Foundry, Concourse, Heroku, Go
 
