@@ -10,11 +10,12 @@ I am a senior software engineer and XP/Lean consultant with a focus on Android a
 
 Mobile/web development and XP/Lean consulting for good causes https://www.opcindustries.com
 
-Technologies: Android, Java, Python, XLSForms
+Technologies: Android, Java, Kotlin, Python, XLSForms, Docker
 
 #### Work
 
-* Defining and working on projects for Open Data Kit focused around improving the UX of their primary Android app
+* Working on projects focused on and helping support [Open Data Kit](https://opendatakit.org/) tools
+* Creating solutions to support new field data collection workflows for [London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/)
 * Running sessions with leadership at startups to help them solve organisational and product development problems
 
 ### Senior Software Engineer, Manager at Pivotal Labs
