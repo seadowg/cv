@@ -14,7 +14,7 @@ Technologies: Android, Java, Kotlin, Python, XLSForms, Docker
 
 #### Work
 
-* Working on projects focused on and helping support [Open Data Kit](https://opendatakit.org/) tools
+* Working on and managing projects across various [Open Data Kit](https://opendatakit.org/) tools
 * Creating solutions to support new field data collection workflows for [London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/)
 * Running sessions with leadership at startups to help them solve organisational and product development problems
 
