@@ -35,32 +35,6 @@ Technologies: Android, Kotlin, Ruby, Rails, Java, Git, Javascript, Robolectric, 
 * Mentoring and helping build other Pivotal engineers' careers as their line manager
 * Contributing to the overall direction and management of the office and consulting practice
 
-#### Major projects
-
-##### 1 hour food delivery app
-
-One of Britain's largest super markets building out a 1 hour delivery service.
-
-* Worked across mobile apps, web, APIs and backend services within several different technologies
-* Ramped up both Pivotal and client engineers to be able to build and maintain Android application
-* Mentored client technical and product team leaders throughout their transition from Pivotal to their own office
-
-##### Daily news app
-
-150+ year old global newspaper moving from weekly to daily news.
-
-* Lead a team of engineers to build Android and iOS app in parallel from scratch
-* Simultaneously released on Android and iOS to over 300k existing subscribers and new readers
-* Collaborated with editorial team and C-Suite project sponsors on working with third party design agency
-
-##### Postfacto
-
-Internal tool for helping teams run agile retrospectives with remote members.
-
-* Coordinate and carry out feature development and refactors of inherited existing React/Rails web app
-* Reworked SAAS product to a self installed/on premise one
-* Currently managing open source project (https://github.com/pivotal/postfacto/)
-
 ## Education
 
 ### University of Edinburgh, Computer Science BEng Hons
