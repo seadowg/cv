@@ -18,7 +18,7 @@ Technologies: Android, Java, Kotlin, Python, XLSForms, Docker
 * Creating solutions to support new field data collection workflows for [London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/)
 * Running sessions with leadership at startups to help them solve organisational and product development problems
 
-### Software Engineer/Senior Software Engineer/Staff Software Engineer/Engineering Manager at Pivotal Labs
+### Software Engineer -> Staff Software Engineer -> Engineering Manager at Pivotal Labs
 
 *October 2012 - March 2019*
 
